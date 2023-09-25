@@ -19,6 +19,7 @@
 body {
   font-family: 'Work Sans', sans-serif;
   color: #151C22;
+  margin: 5px;
 }
 
 body._lock {
